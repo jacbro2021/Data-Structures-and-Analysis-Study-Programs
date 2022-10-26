@@ -1,4 +1,4 @@
-package Midterm2;
+package Midterm2.BST;
 
 public interface BstInt<T extends Comparable<T>> {
    //methods

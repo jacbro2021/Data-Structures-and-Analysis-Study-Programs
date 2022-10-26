@@ -1,4 +1,4 @@
-package Midterm2;
+package Midterm2.BST;
 
 public class BST<T extends Comparable<T>> implements BstInt<T> {
     private T _element;

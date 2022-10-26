@@ -1,4 +1,4 @@
-package Midterm2;
+package Midterm2.BST;
 
 public class Main {
     public static void main(String[] args) {
